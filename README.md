@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omar-mhiri
 - 👀 I’m interested in vuejs projects 
-- 🌱 I’m currently learning laravel 8
+- 🌱 I’m currently learning laravel
 - 📫 How to reach me omar.mhiri159@gmail.com
 
 <!---
